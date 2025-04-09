@@ -3,7 +3,6 @@ import {
   Instagram,
   MessageCircle,
   Phone,
-  Search,
   Twitter,
   User,
 } from "lucide-react";
